@@ -34,7 +34,7 @@ class MyDataStructure {
 
   set count(count) {
     // access state, ie this.#list
-    return (this.#list.length = count);
+    this.#list.length = count;
   }
 }
 

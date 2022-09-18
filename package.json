@@ -20,5 +20,8 @@
   "homepage": "https://github.com/alchemycodelab/adv-fs-dsna-challenges#readme",
   "dependencies": {
     "jest": "^29.0.3"
+  },
+  "devDependencies": {
+    "@babel/eslint-plugin": "^7.19.1"
   }
 }
