@@ -1,4 +1,12 @@
-# Day 1 - Lists & Primitives
+# Day 1 - Primitives, Higher Order Functions & Recursion
+
+## Rubric
+
+| Looking for...                                 | Points |
+| ---------------------------------------------- | ------ |
+| 6 primitive (PRIM) challenges solved           | 6      |
+| 1 Higher Order Function (HOF) challenge solved | 2      |
+| 1 Recursive (REC) challenge solved             | 2      |
 
 ## Strings
 
