@@ -1,5 +1,12 @@
 # Node Based Data Structures
 
+## Rubric
+
+| Looking for...         | Points                 |
+| ---------------------- | ---------------------- |
+| 2 Challenges completed | 5 points per challenge |
+| Total                  | 10                     |
+
 Nodes represent values and their connection to other nodes that have values. The node is _not_ the value, it is a way to arrange a set of related values. Some common node based data structures:
 
 - linked lists
