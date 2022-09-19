@@ -1,4 +1,4 @@
-const { MyDataStructure } = require('../myDataStructure');
+const { MyDataStructure } = require('../myDataStructure.js');
 
 describe('MyDataStructure', () => {
   it('should add to the front', () => {
