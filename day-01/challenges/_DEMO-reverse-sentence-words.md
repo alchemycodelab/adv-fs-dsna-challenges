@@ -1,5 +1,4 @@
-Reverse Words
----
+## Reverse Words
 
 ## Rules
 
@@ -19,6 +18,6 @@ function reverseWords(sentence) {
 
 ## Test Cases
 
-Input | Output
----|---
-`'alchemy rocks gold'` | `'ymehcla skcor dlog'`
+| Input                  | Output                 |
+| ---------------------- | ---------------------- |
+| `'alchemy rocks gold'` | `'ymehcla skcor dlog'` |
