@@ -2,6 +2,8 @@
 
 ## Rubric
 
+See [challenges](challenges) for the challenges for this Rubric.
+
 | Looking for...                                      | Points |
 | --------------------------------------------------- | ------ |
 | CH-01-stack completed with tests                    | 4      |
